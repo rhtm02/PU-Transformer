@@ -15,8 +15,8 @@ https://arxiv.org/abs/2111.12242
 
 
 # Randering
-**Ground Truth**
+**Ground Truth**  
 ![ex_screenshot](./img/20220407_163626_gt.png)
 
-**Model Prediction**
+**Model Prediction**  
 ![ex_screenshot](./img/20220407_163626_predict.png)
