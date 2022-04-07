@@ -14,3 +14,9 @@ https://arxiv.org/abs/2111.12242
 | This code | **0.0601**| 
 
 
+# Randering
+**Ground Truth**
+![ex_screenshot](./img/20220407_163626_gt.png)
+
+**Model Prediction**
+![ex_screenshot](./img/20220407_163626_predict.png)
