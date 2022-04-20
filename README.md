@@ -23,7 +23,7 @@ https://arxiv.org/abs/2111.12242
 
 # Visualize
 **Ground Truth**  
-![ex_screenshot](./img/20220407_163626_gt.png)
+![ex_screenshot](./img/cat_gt.png)
 
 **Model Prediction**  
-![ex_screenshot](./img/20220407_163626_predict.png)
+![ex_screenshot](./img/cat_predict.png)
