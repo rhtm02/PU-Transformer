@@ -15,10 +15,10 @@ https://arxiv.org/abs/2111.12242
 **Output : 8192**  
 **Test Dataset : PU-GAN dataset**    
 
-| X4 | Chamfer Distance(10<sup>-3</sup>)|HD(10<sup>-3</sup>)|
-|:--------|:--------:|:--------:|
-| This code | **0.2718**|**3.161**|
-|Paper|**0.273**|**2.605**| 
+| X4 | Chamfer Distance(10<sup>-3</sup>)|HD(10<sup>-3</sup>)|P2F(10<sup>-3</sup>)|
+|:--------|:--------:|:--------:|:--------:|
+| This code | **0.2718**|**3.161**|**4.202**|
+|Paper|**0.273**|**2.605**|**1.836**| 
 
 
 # Visualize
